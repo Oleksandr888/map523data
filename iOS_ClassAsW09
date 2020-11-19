@@ -1,8 +1,8 @@
 {
 	"Ticket":[
-		{"Type": "Courtside", "Price": 27777.0, "Quantity": 1},
-		{"Type": "Balcony Level", "Price": 1170.0, "Quantity": 1},
-		{"Type": "Lower Level", "Price": 10434.0, "Quantity": 1}
+		{"ticType": "Courtside", "price": 27777.0, "quont": 1},
+		{"ticType": "Balcony Level", "price": 1170.0, "quont": 1},
+		{"ticType": "Lower Level", "price": 10434.0, "quont": 1}
 		
 	]
 
