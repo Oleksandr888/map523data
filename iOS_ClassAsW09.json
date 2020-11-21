@@ -1,8 +1,8 @@
 {
 	"tickets":[
-		{"ticType": "Courtside", "price": 27777.0, "quont": 1},
-		{"ticType": "Balcony Level", "price": 1170.0, "quont": 1},
-		{"ticType": "Lower Level", "price": 10434.0, "quont": 1}
+		{"ticType": "Courtside", "price": 27777.0, "quont": 55},
+		{"ticType": "Balcony Level", "price": 1170.0, "quont": 255},
+		{"ticType": "Lower Level", "price": 10434.0, "quont": 888}
 		
 	]
 
